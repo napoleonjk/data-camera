@@ -65,3 +65,7 @@ util：一些通用化的工具
 - redis：redis链接配置
 - log：日志配置
 - oss：oss配置
+
+## 本地服务访问路径
+
+http://localhost:8080/camera/index
