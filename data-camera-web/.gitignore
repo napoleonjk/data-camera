@@ -18,3 +18,5 @@ src/main/resources/secret
 
 *.mp4
 *.wmv
+
+application.jk.properties
